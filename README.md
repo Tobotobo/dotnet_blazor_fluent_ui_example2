@@ -30,6 +30,8 @@ dotnet new fluentblazorwasm --pwa
 
 ## blazorwasm テンプレートと fluentblazorwasm テンプレートの差異
 
+※差異の詳細は https://github.com/Tobotobo/dotnet_blazor_fluent_ui_example2/commit/e81cb2c198197626e1df42863455016e71510d4d?diff=split&w=1 参照
+
 ### App.razor
 * `<FocusOnNavigate RouteData="@routeData" Selector="h1" />` 追加
 
